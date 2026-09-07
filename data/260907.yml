@@ -5,19 +5,19 @@ about:
   head: 862f6bc
   archived: false
   latestVersion: "v0.9.3"
-  collectedAt: 2026-09-07T04:54:51Z
+  collectedAt: 2026-09-07T19:32:29Z
 timeline:
   created: 2024-05-09
   lastCommit: 2026-08-31
   lastRelease: 2026-08-31
 popularity:
-  star: 81837
-  watcher: 414
-  fork: 8442
+  star: 81902
+  watcher: 415
+  fork: 8446
   release: 21
   contributor: 86
-  pullRequest: 732
-  issue: 1030
+  pullRequest: 733
+  issue: 1031
 language:
   Python: 4472934
   JavaScript: 36080
@@ -29,60 +29,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 15
-    openPR: 39
+    openPR: 40
     closedIssue: 5
-    openIssue: 11
+    openIssue: 12
     commit: 22
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 25
-    openPR: 65
+    openPR: 66
     closedIssue: 15
-    openIssue: 20
+    openIssue: 21
     commit: 40
   last90d:
     since: 2026-06-09
     release: 4
     mergedPR: 39
-    openPR: 79
+    openPR: 80
     closedIssue: 26
-    openIssue: 23
+    openIssue: 24
     commit: 69
   last180d:
     since: 2026-03-11
     release: 8
     mergedPR: 71
-    openPR: 129
+    openPR: 130
     closedIssue: 63
-    openIssue: 30
+    openIssue: 31
     commit: 133
   last360d:
     since: 2025-09-12
     release: 13
     mergedPR: 125
-    openPR: 139
+    openPR: 140
     closedIssue: 187
-    openIssue: 30
+    openIssue: 31
     commit: 407
   last720d:
     since: 2024-09-17
     release: 21
     mergedPR: 230
-    openPR: 140
+    openPR: 141
     closedIssue: 917
-    openIssue: 35
+    openIssue: 36
     commit: 1425
 total:
   release: 21
   mergedPR: 235
-  openPR: 140
+  openPR: 141
   closedIssue: 995
-  openIssue: 35
+  openIssue: 36
   commit: 1651
 ---
 path: /home/runner/.x-repo/github.com/unclecode/crawl4ai
-collectedAt: 2026-09-07T04:55:03Z
+collectedAt: 2026-09-07T19:32:37Z
 loc:
   Python:
     code: 112059
@@ -173,7 +173,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:05+00:00
+  collectedAt: 2026-09-07T19:32:38+00:00
   platform:
     darwin/arm64:
       name:  null
