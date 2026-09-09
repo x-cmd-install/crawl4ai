@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.3"
   latestRelease: "v0.9.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:59:45Z
+  collectedAt: 2026-09-09T19:14:25Z
 timeline:
   created: 2024-05-09
   lastCommit: 2026-08-31
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 82001
+  star: 82046
   watcher: 415
-  fork: 8448
+  fork: 8453
   release: 21
   contributor: 86
-  pullRequest: 739
-  issue: 1033
+  pullRequest: 742
+  issue: 1034
 language:
   Python: 4472934
   JavaScript: 36080
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 15
-    openPR: 45
+    mergedPR: 16
+    openPR: 47
     closedIssue: 4
-    openIssue: 14
+    openIssue: 15
     commit: 22
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 23
-    openPR: 69
+    mergedPR: 24
+    openPR: 71
     closedIssue: 14
-    openIssue: 23
+    openIssue: 24
     commit: 40
   last90d:
     since: 2026-06-11
     release: 4
-    mergedPR: 39
-    openPR: 84
+    mergedPR: 40
+    openPR: 86
     closedIssue: 26
-    openIssue: 26
+    openIssue: 27
     commit: 69
   last180d:
     since: 2026-03-13
     release: 8
-    mergedPR: 65
-    openPR: 135
+    mergedPR: 66
+    openPR: 137
     closedIssue: 63
-    openIssue: 33
+    openIssue: 34
     commit: 133
   last360d:
     since: 2025-09-14
     release: 13
-    mergedPR: 125
-    openPR: 145
+    mergedPR: 126
+    openPR: 147
     closedIssue: 185
-    openIssue: 33
+    openIssue: 34
     commit: 407
   last720d:
     since: 2024-09-19
     release: 21
-    mergedPR: 230
-    openPR: 146
+    mergedPR: 231
+    openPR: 148
     closedIssue: 916
-    openIssue: 38
+    openIssue: 39
     commit: 1425
 total:
   release: 21
-  mergedPR: 235
-  openPR: 146
+  mergedPR: 236
+  openPR: 148
   closedIssue: 995
-  openIssue: 38
+  openIssue: 39
   commit: 1651
 ---
 path: /home/runner/.x-repo/github.com/unclecode/crawl4ai
-collectedAt: 2026-09-09T04:59:55Z
+collectedAt: 2026-09-09T19:14:34Z
 loc:
   Python:
     code: 112059
