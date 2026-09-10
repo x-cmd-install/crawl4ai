@@ -22,11 +22,10 @@ x install crawl4ai
 
 - **Latest**: `v0.9.3` (2026-08-31)
 - **Last commit**: 2026-08-31
-- **Published**: 2026-08-31T11:34:14Z
 
 ## Popularity
 
-- **Stars**: 82,065 · **Forks**: 8,454 · **Open issues**: 1,034 · **Contributors**: 86
+- **Stars**: 82,102 · **Forks**: 8,460 · **Open issues**: 1,034 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -57,8 +56,8 @@ Total: **153,120** lines of code across **594** files in the top 5 languages.
 Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `crawl4ai` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/crawl4ai.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/crawl4ai.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:08:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:03:18Z._

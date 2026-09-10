@@ -4,7 +4,7 @@
 
 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-![crawl4ai](https://repo.x-cmd.io/crawl4ai.svg)
+![crawl4ai](https://repo.x-cmd.io/crawl4ai.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install crawl4ai
 
 - **最新版本**: `v0.9.3` (2026-08-31)
 - **最近提交**: 2026-08-31
-- **发布时间**: 2026-08-31T11:34:14Z
 
 ## 流行度
 
-- **Star**: 82,065 · **Fork**: 8,454 · **开放 issue**: 1,034 · **贡献者**: 86
+- **Star**: 82,102 · **Fork**: 8,460 · **开放 issue**: 1,034 · **贡献者**: 86
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ crawl4ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:08:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:20Z._
