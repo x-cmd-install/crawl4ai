@@ -12,6 +12,18 @@
 x install crawl4ai
 ```
 
+## Code insight
+
+Total: **153,120** lines of code across **594** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 112,059 | 11,596 | 22,412 | 482 |
+| JavaScript | 17,629 | 1,997 | 2,434 | 49 |
+| Css | 13,375 | 608 | 2,389 | 25 |
+| Html | 6,775 | 308 | 505 | 32 |
+| Jupyter | 1,764 | 773 | 523 | 6 |
+
 ## Source
 
 - **Upstream**: <https://github.com/unclecode/crawl4ai>
@@ -25,7 +37,7 @@ x install crawl4ai
 
 ## Popularity
 
-- **Stars**: 82,102 · **Forks**: 8,460 · **Open issues**: 1,034 · **Contributors**: 86
+- **Stars**: 82,119 · **Forks**: 8,462 · **Open issues**: 1,034 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install crawl4ai
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 15 | 48 | 4 | 15 | 22 |
-| 90d | 2026-06-12 | 4 | 40 | 87 | 26 | 27 | 69 |
-| 360d | 2025-09-15 | 13 | 126 | 148 | 183 | 34 | 407 |
-
-## Code size
-
-Total: **153,120** lines of code across **594** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 112,059 | 11,596 | 22,412 | 482 |
-| JavaScript | 17,629 | 1,997 | 2,434 | 49 |
-| Css | 13,375 | 608 | 2,389 | 25 |
-| Html | 6,775 | 308 | 505 | 32 |
-| Jupyter | 1,764 | 773 | 523 | 6 |
+| 30d | 2026-08-12 | 1 | 14 | 47 | 3 | 15 | 22 |
+| last60d | 2026-07-13 | 2 | 23 | 72 | 13 | 24 | 40 |
+| 90d | 2026-06-13 | 4 | 40 | 86 | 26 | 27 | 69 |
+| last180d | 2026-03-15 | 8 | 66 | 138 | 63 | 34 | 133 |
+| 360d | 2025-09-16 | 13 | 126 | 148 | 179 | 34 | 407 |
+| last720d | 2024-09-21 | 21 | 231 | 149 | 915 | 39 | 1425 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:03:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:05:32Z._
