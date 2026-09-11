@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.3"
   latestRelease: "v0.9.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:05:15Z
+  collectedAt: 2026-09-11T04:56:16Z
 timeline:
   created: 2024-05-09
   lastCommit: 2026-08-31
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 82119
+  star: 82133
   watcher: 413
-  fork: 8462
+  fork: 8466
   release: 21
   contributor: 86
   pullRequest: 742
@@ -86,7 +86,7 @@ total:
   commit: 1651
 ---
 path: /home/runner/.x-repo/github.com/unclecode/crawl4ai
-collectedAt: 2026-09-11T00:05:28Z
+collectedAt: 2026-09-11T04:56:24Z
 loc:
   Python:
     code: 112059
