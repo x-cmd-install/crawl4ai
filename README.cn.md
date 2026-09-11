@@ -37,7 +37,7 @@ x install crawl4ai
 
 ## 流行度
 
-- **Star**: 82,119 · **Fork**: 8,462 · **开放 issue**: 1,034 · **贡献者**: 86
+- **Star**: 82,133 · **Fork**: 8,466 · **开放 issue**: 1,034 · **贡献者**: 86
 
 ## 累计统计
 
@@ -63,4 +63,4 @@ crawl4ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T00:05:33Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T04:56:29Z._
