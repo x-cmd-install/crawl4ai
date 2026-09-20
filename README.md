@@ -4,7 +4,7 @@
 
 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-![crawl4ai](https://repo.x-cmd.io/crawl4ai.svg)
+[![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crawl4ai.svg)](https://x-cmd.com/install/crawl4ai)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **153,120** lines of code across **594** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 83,782 · **Forks**: 8,664 · **Open issues**: 1,039 · **Contributors**: 86
+- **Stars**: 83,893 · **Forks**: 8,680 · **Open issues**: 1,039 · **Contributors**: 86
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **153,120** lines of code across **594** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 17 | 50 | 3 | 17 | 5 |
-| last60d | 2026-07-20 | 1 | 29 | 72 | 13 | 26 | 38 |
-| 90d | 2026-06-20 | 3 | 48 | 93 | 21 | 29 | 66 |
-| last180d | 2026-03-22 | 7 | 71 | 144 | 59 | 38 | 120 |
-| 360d | 2025-09-23 | 13 | 131 | 157 | 165 | 38 | 405 |
-| last720d | 2024-09-28 | 21 | 239 | 158 | 907 | 43 | 1417 |
+| 30d | 2026-08-21 | 1 | 11 | 49 | 1 | 17 | 5 |
+| last60d | 2026-07-22 | 1 | 27 | 71 | 11 | 25 | 38 |
+| 90d | 2026-06-22 | 3 | 46 | 89 | 20 | 29 | 66 |
+| last180d | 2026-03-24 | 7 | 68 | 134 | 57 | 38 | 120 |
+| 360d | 2025-09-25 | 13 | 131 | 157 | 162 | 38 | 405 |
+| last720d | 2024-09-30 | 21 | 239 | 158 | 900 | 43 | 1414 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:05:32Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:16:32Z._
