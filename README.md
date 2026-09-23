@@ -4,7 +4,7 @@
 
 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-[![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crawl4ai.svg)](https://x-cmd.com/install/crawl4ai)
+[![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crawl4ai.svg)](https://x-cmd.com/install/crawl4ai)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **153,120** lines of code across **594** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 84,048 · **Forks**: 8,689 · **Open issues**: 1,039 · **Contributors**: 86
+- **Stars**: 84,103 · **Forks**: 8,689 · **Open issues**: 1,039 · **Contributors**: 86
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 244 · **Open PRs**: 158 · **Closed issues**: 996 · **Open issues**: 43 · **Commits**: 1651
+- **Releases**: 21 · **Merged PRs**: 249 · **Open PRs**: 155 · **Closed issues**: 996 · **Open issues**: 43 · **Commits**: 1651
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 11 | 46 | 1 | 17 | 4 |
-| last60d | 2026-07-24 | 1 | 27 | 71 | 10 | 25 | 32 |
-| 90d | 2026-06-24 | 3 | 46 | 87 | 20 | 29 | 63 |
-| last180d | 2026-03-26 | 7 | 68 | 132 | 56 | 38 | 114 |
-| 360d | 2025-09-27 | 13 | 131 | 157 | 160 | 38 | 398 |
-| last720d | 2024-10-02 | 21 | 239 | 158 | 892 | 43 | 1414 |
+| 30d | 2026-08-24 | 1 | 16 | 34 | 1 | 17 | 4 |
+| last60d | 2026-07-25 | 1 | 32 | 67 | 10 | 24 | 32 |
+| 90d | 2026-06-25 | 3 | 50 | 84 | 19 | 29 | 63 |
+| last180d | 2026-03-27 | 7 | 73 | 126 | 56 | 38 | 114 |
+| 360d | 2025-09-28 | 13 | 136 | 154 | 159 | 38 | 398 |
+| last720d | 2024-10-03 | 21 | 242 | 155 | 891 | 43 | 1413 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:26:42Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:17:37Z._

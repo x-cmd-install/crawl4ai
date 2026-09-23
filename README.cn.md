@@ -4,7 +4,7 @@
 
 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
-[![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crawl4ai.svg?lang=zh)](https://x-cmd.com/install/crawl4ai)
+[![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crawl4ai.svg?lang=zh)](https://x-cmd.com/install/crawl4ai)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install crawl4ai
 
 ## 流行度
 
-- **Star**: 84,048 · **Fork**: 8,689 · **开放 issue**: 1,039 · **贡献者**: 86
+- **Star**: 84,103 · **Fork**: 8,689 · **开放 issue**: 1,039 · **贡献者**: 86
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 244 · **开放 PR**: 158 · **已关闭 issue**: 996 · **开放 issue**: 43 · **提交数**: 1651
+- **发布数**: 21 · **已合并 PR**: 249 · **开放 PR**: 155 · **已关闭 issue**: 996 · **开放 issue**: 43 · **提交数**: 1651
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 11 | 46 | 1 | 17 | 4 |
-| last60d | 2026-07-24 | 1 | 27 | 71 | 10 | 25 | 32 |
-| 90d | 2026-06-24 | 3 | 46 | 87 | 20 | 29 | 63 |
-| last180d | 2026-03-26 | 7 | 68 | 132 | 56 | 38 | 114 |
-| 360d | 2025-09-27 | 13 | 131 | 157 | 160 | 38 | 398 |
-| last720d | 2024-10-02 | 21 | 239 | 158 | 892 | 43 | 1414 |
+| 30d | 2026-08-24 | 1 | 16 | 34 | 1 | 17 | 4 |
+| last60d | 2026-07-25 | 1 | 32 | 67 | 10 | 24 | 32 |
+| 90d | 2026-06-25 | 3 | 50 | 84 | 19 | 29 | 63 |
+| last180d | 2026-03-27 | 7 | 73 | 126 | 56 | 38 | 114 |
+| 360d | 2025-09-28 | 13 | 136 | 154 | 159 | 38 | 398 |
+| last720d | 2024-10-03 | 21 | 242 | 155 | 891 | 43 | 1413 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ crawl4ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:26:42Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:17:37Z._
