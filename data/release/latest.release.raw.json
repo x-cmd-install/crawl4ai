@@ -43,11 +43,11 @@
   "body": "## 🎉 Crawl4AI v0.9.4 Released!\n\n### 📦 Installation\n\n**PyPI:**\n```bash\npip install crawl4ai==0.9.4\n```\n\n**Docker:**\n```bash\ndocker pull unclecode/crawl4ai:0.9.4\ndocker pull unclecode/crawl4ai:latest\n```\n\n**Note:** Docker images are being built and will be available shortly.\nCheck the [Docker Release workflow](https://github.com/unclecode/crawl4ai/actions/workflows/docker-release.yml) for build status.\n\n### 📝 What's Changed\nSee [CHANGELOG.md](https://github.com/unclecode/crawl4ai/blob/main/CHANGELOG.md) for details.\n",
   "reactions": {
     "url": "https://api.github.com/repos/unclecode/crawl4ai/releases/394626896/reactions",
-    "total_count": 4,
+    "total_count": 5,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 0,
+    "hooray": 1,
     "confused": 0,
     "heart": 4,
     "rocket": 0,
