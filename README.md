@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 
 [![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crawl4ai.svg)](https://x-cmd.com/install/crawl4ai)
 
@@ -14,7 +14,7 @@ x install crawl4ai
 
 ## Code insight
 
-Total: **154,949** lines of code across **606** files in the top 5 languages.
+Total: **154,989** lines of code across **606** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,26 +33,26 @@ Total: **154,949** lines of code across **606** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.4` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 84,227 · **Forks**: 8,709 · **Open issues**: 1,040 · **Contributors**: 89
+- **Stars**: 84,276 · **Forks**: 8,716 · **Open issues**: 1,044 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 251 · **Open PRs**: 155 · **Closed issues**: 1006 · **Open issues**: 34 · **Commits**: 1696
+- **Releases**: 22 · **Merged PRs**: 251 · **Open PRs**: 165 · **Closed issues**: 1006 · **Open issues**: 38 · **Commits**: 1697
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 18 | 33 | 11 | 7 | 28 |
-| last60d | 2026-07-27 | 2 | 34 | 64 | 20 | 15 | 56 |
-| 90d | 2026-06-27 | 4 | 51 | 84 | 29 | 20 | 87 |
-| last180d | 2026-03-29 | 8 | 74 | 123 | 64 | 29 | 140 |
-| 360d | 2025-09-30 | 14 | 136 | 154 | 169 | 29 | 424 |
-| last720d | 2024-10-05 | 22 | 243 | 155 | 897 | 34 | 1457 |
+| 30d | 2026-08-27 | 2 | 18 | 43 | 11 | 8 | 29 |
+| last60d | 2026-07-28 | 2 | 34 | 74 | 20 | 19 | 57 |
+| 90d | 2026-06-28 | 4 | 51 | 94 | 28 | 24 | 88 |
+| last180d | 2026-03-30 | 8 | 73 | 132 | 64 | 33 | 141 |
+| 360d | 2025-10-01 | 14 | 136 | 164 | 169 | 33 | 425 |
+| last720d | 2024-10-06 | 22 | 243 | 165 | 894 | 38 | 1458 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:10:47Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:16:28Z._
