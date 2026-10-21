@@ -37,22 +37,22 @@ Total: **156,867** lines of code across **627** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 85,880 · **Forks**: 8,932 · **Open issues**: 1,061 · **Contributors**: 96
+- **Stars**: 85,945 · **Forks**: 8,939 · **Open issues**: 1,062 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 271 · **Open PRs**: 227 · **Closed issues**: 1020 · **Open issues**: 41 · **Commits**: 1783
+- **Releases**: 23 · **Merged PRs**: 272 · **Open PRs**: 226 · **Closed issues**: 1021 · **Open issues**: 41 · **Commits**: 1783
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 23 | 82 | 15 | 11 | 55 |
-| last60d | 2026-08-21 | 3 | 38 | 122 | 28 | 16 | 91 |
-| 90d | 2026-07-22 | 3 | 54 | 140 | 39 | 23 | 121 |
-| last180d | 2026-04-23 | 9 | 86 | 185 | 70 | 33 | 180 |
-| 360d | 2025-10-25 | 13 | 147 | 225 | 176 | 36 | 427 |
-| last720d | 2024-10-30 | 23 | 260 | 227 | 845 | 41 | 1505 |
+| 30d | 2026-09-21 | 2 | 24 | 81 | 16 | 11 | 55 |
+| last60d | 2026-08-22 | 3 | 39 | 120 | 29 | 16 | 91 |
+| 90d | 2026-07-23 | 3 | 55 | 139 | 40 | 23 | 121 |
+| last180d | 2026-04-24 | 9 | 84 | 182 | 70 | 33 | 180 |
+| 360d | 2025-10-26 | 13 | 148 | 224 | 175 | 36 | 427 |
+| last720d | 2024-10-31 | 23 | 260 | 226 | 844 | 41 | 1497 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for crawl4ai lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:05:29Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:01:56Z._
