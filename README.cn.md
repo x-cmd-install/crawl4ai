@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
+Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
 
 [![x-cmd/install — crawl4ai Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crawl4ai.svg?lang=zh)](https://x-cmd.com/install/crawl4ai)
 
@@ -14,7 +14,7 @@ x install crawl4ai
 
 ## 代码洞察
 
-合计: **156,861** 行代码（覆盖前 5 种语言、共 **628** 个文件）。
+合计: **156,865** 行代码（覆盖前 5 种语言、共 **628** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -27,32 +27,32 @@ x install crawl4ai
 ## 源代码
 
 - **上游仓库**: <https://github.com/unclecode/crawl4ai>
-- **官网**: <https://crawl4ai.com>
+- **官网**: <https://crawl4ai.com/?ref=github-about>
 - **许可证**: Apache-2.0
 
 ## 发布
 
 - **最新版本**: `v0.9.5` (2026-10-14)
-- **最近提交**: 2026-10-26
+- **最近提交**: 2026-11-04
 
 ## 流行度
 
-- **Star**: 86,865 · **Fork**: 9,047 · **开放 issue**: 1,079 · **贡献者**: 97
+- **Star**: 86,919 · **Fork**: 9,050 · **开放 issue**: 1,079 · **贡献者**: 97
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 287 · **开放 PR**: 252 · **已关闭 issue**: 1023 · **开放 issue**: 56 · **提交数**: 1785
+- **发布数**: 23 · **已合并 PR**: 294 · **开放 PR**: 255 · **已关闭 issue**: 1023 · **开放 issue**: 56 · **提交数**: 1792
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 22 | 83 | 7 | 25 | 27 |
-| last60d | 2026-09-05 | 2 | 49 | 124 | 26 | 28 | 82 |
-| 90d | 2026-08-06 | 3 | 69 | 157 | 37 | 32 | 117 |
-| last180d | 2026-05-08 | 9 | 96 | 205 | 69 | 47 | 177 |
-| 360d | 2025-11-09 | 13 | 160 | 250 | 168 | 51 | 418 |
-| last720d | 2024-11-14 | 23 | 272 | 252 | 808 | 56 | 1454 |
+| 30d | 2026-10-06 | 1 | 29 | 85 | 6 | 25 | 34 |
+| last60d | 2026-09-06 | 2 | 56 | 126 | 25 | 28 | 89 |
+| 90d | 2026-08-07 | 3 | 75 | 160 | 37 | 32 | 124 |
+| last180d | 2026-05-09 | 9 | 103 | 208 | 69 | 47 | 184 |
+| 360d | 2025-11-10 | 13 | 163 | 253 | 167 | 51 | 425 |
+| last720d | 2024-11-15 | 23 | 278 | 255 | 803 | 56 | 1459 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ crawl4ai 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:38:43Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:59:27Z._
