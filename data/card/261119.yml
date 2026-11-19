@@ -1,0 +1,178 @@
+about:
+  description: "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it."
+  license: Apache-2.0
+  homepage: https://crawl4ai.com/?ref=github-about
+  head: bf0c792
+  archived: false
+  latestVersion: "v0.9.5"
+  latestRelease: "v0.9.5"
+  latestPrerelease: ""
+  collectedAt: 2026-11-19T10:27:59Z
+timeline:
+  created: 2024-05-09
+  lastCommit: 2026-11-17
+  lastVersion: 2026-10-14
+  lastRelease: 2026-10-14
+  lastPrerelease: 
+popularity:
+  star: 87553
+  watcher: 422
+  fork: 9131
+  release: 23
+  contributor: 97
+  pullRequest: 991
+  issue: 1088
+language:
+  Python: 4652888
+  JavaScript: 36080
+  Shell: 11479
+  Dockerfile: 7696
+totalBytes: 4708143
+recent:
+  last30d:
+    since: 2026-10-20
+    release: 0
+    mergedPR: 36
+    openPR: 77
+    closedIssue: 2
+    openIssue: 28
+    commit: 10
+  last60d:
+    since: 2026-09-20
+    release: 2
+    mergedPR: 62
+    openPR: 139
+    closedIssue: 18
+    openIssue: 38
+    commit: 70
+  last90d:
+    since: 2026-08-21
+    release: 3
+    mergedPR: 78
+    openPR: 178
+    closedIssue: 31
+    openIssue: 43
+    commit: 102
+  last180d:
+    since: 2026-05-23
+    release: 9
+    mergedPR: 117
+    openPR: 229
+    closedIssue: 65
+    openIssue: 56
+    commit: 182
+  last360d:
+    since: 2025-11-24
+    release: 12
+    mergedPR: 172
+    openPR: 278
+    closedIssue: 152
+    openIssue: 63
+    commit: 412
+  last720d:
+    since: 2024-11-29
+    release: 23
+    mergedPR: 288
+    openPR: 280
+    closedIssue: 777
+    openIssue: 68
+    commit: 1370
+total:
+  release: 23
+  mergedPR: 311
+  openPR: 280
+  closedIssue: 1020
+  openIssue: 68
+  commit: 1793
+---
+path: /home/runner/.x-repo/github.com/unclecode/crawl4ai
+collectedAt: 2026-11-19T10:28:06Z
+loc:
+  Python:
+    code: 115602
+    comments: 11813
+    blanks: 23311
+    files: 512
+  JavaScript:
+    code: 17685
+    comments: 2008
+    blanks: 2440
+    files: 50
+  Css:
+    code: 13430
+    comments: 616
+    blanks: 2393
+    files: 26
+  Html:
+    code: 6818
+    comments: 308
+    blanks: 508
+    files: 34
+  Jupyter:
+    code: 1764
+    comments: 773
+    blanks: 523
+    files: 6
+  Json:
+    code: 538
+    comments: 0
+    blanks: 0
+    files: 10
+  Yaml:
+    code: 372
+    comments: 66
+    blanks: 23
+    files: 8
+  Svg:
+    code: 316
+    comments: 21
+    blanks: 17
+    files: 15
+  Dockerfile:
+    code: 170
+    comments: 25
+    blanks: 37
+    files: 1
+  Toml:
+    code: 113
+    comments: 2
+    blanks: 9
+    files: 2
+  Bitbake:
+    code: 30
+    comments: 1
+    blanks: 3
+    files: 1
+  Sh:
+    code: 23
+    comments: 12
+    blanks: 4
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 35571
+    blanks: 12478
+    files: 154
+  Text:
+    code: 0
+    comments: 34138
+    blanks: 8113
+    files: 36
+total:
+  code: 180485
+  comments: 88873
+  blanks: 53764
+  files: 858
+---
+
+---
